@@ -1,3 +1,7 @@
 ^Khan\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^\.Rhistory$
+^docs$
+^.*\.tar\.gz$
+^.*\.Rcheck$
